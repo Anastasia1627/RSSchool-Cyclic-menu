@@ -1,0 +1,18 @@
+.keyboardMenu{
+    text-align: center;
+    margin: 20px;
+}
+.menuLink{
+    color: black;
+    text-decoration: none;
+    box-sizing: border-box;
+    cursor: default;
+    padding: 3px 10px;
+    border-bottom: none;
+    font-weight: bold;
+    display: inline-block;
+}
+.active{
+    color: green;
+    border-bottom: 2px solid;
+}
